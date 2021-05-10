@@ -20,6 +20,7 @@ h1 {
 
 label, input {
     margin-right: 10px;
+    font-size: large;
 }
 
 input[type="text"] {
